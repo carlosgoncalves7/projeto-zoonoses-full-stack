@@ -9,3 +9,10 @@ database
 .env.backup
 .env.*.local
 .env.example
+
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
